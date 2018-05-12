@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32362
     wikipedia: http://eo.wikipedia.org/wiki/Teodor_Jung
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26959#La-Lastaj-Tagoj-de-Dro-L.-L.-Zamenhofkaj-la-Funebra-Ceremonio
 gutenberg_bookshelf: Esperanto
 gutenberg_issued: '2008-10-18'
 gutenberg_type: Text
