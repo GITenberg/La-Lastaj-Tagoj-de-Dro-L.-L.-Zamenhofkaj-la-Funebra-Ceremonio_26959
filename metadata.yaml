@@ -1,0 +1,36 @@
+_repo: La-Lastaj-Tagoj-de-Dro-L.-L.-Zamenhofkaj-la-Funebra-Ceremonio_26959
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Oberrotman, Adolf
+    birthdate: 1893
+    gutenberg_agent_id: '32361'
+    url: http://www.gutenberg.org/2009/agents/32361
+    wikipedia: http://eo.wikipedia.org/wiki/Adolf_Oberrotman
+  - agent_name: Jung, Teo
+    birthdate: 1892
+    deathdate: 1986
+    gutenberg_agent_id: '32362'
+    url: http://www.gutenberg.org/2009/agents/32362
+    wikipedia: http://eo.wikipedia.org/wiki/Teodor_Jung
+description: ''
+gutenberg_bookshelf: Esperanto
+gutenberg_issued: '2008-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26959'
+language: eo
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zamenhof, L. L. (Ludwik Lazar), 1859-1917'
+- !lcsh 'Esperanto'
+- !lcc 'PM'
+title: 'La Lastaj Tagoj de Dro L. L. Zamenhof
+
+  kaj la Funebra Ceremonio'
+url: http://www.gutenberg.org/ebooks/26959
